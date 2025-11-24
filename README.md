@@ -1,3 +1,3 @@
 # ManejoDeDatos
 issus
-![](https://github.com/xvalx06/ManejoDeDatos/blob/main/Spidey.gif)
+![](https://github.com/xvalx06/ManejoDeDatos/blob/main/drawio.png)
